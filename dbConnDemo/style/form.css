@@ -1,0 +1,36 @@
+﻿* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    transition: all 0.3s ease;
+    animation-delay: 0s;
+}
+
+body {
+    background: blue;
+    background: white;
+    background: pink;
+    font-size: 18px;
+    line-height: 1.2;
+    color: white;
+    
+}
+
+
+
+.auto-style1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column wrap;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+
+table td.auto-style2 {
+    font-size: 18px;
+    color:deeppink;
+}
